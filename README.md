@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ömer Faruk YILDIRIM</h1>
-<h3 align="center">Quant Developer at Ziv4 Technology OÜ</h3>
+<h3 align="center">Quant Engineer at Ziv4 Technology OÜ</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mervfar&label=Profile%20views&color=0e75b6&style=flat" alt="mervfar" /> </p>
 
